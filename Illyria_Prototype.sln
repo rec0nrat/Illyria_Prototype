@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illyria_Prototype.Plugins", "Illyria_Prototype.Plugins.csproj", "{4A7E28E1-E30E-27B5-3514-6AB1DA934E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illyria_Prototype.Editor.Plugins", "Illyria_Prototype.Editor.Plugins.csproj", "{490B5315-A878-F7FB-5994-8289C930D530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7E28E1-E30E-27B5-3514-6AB1DA934E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7E28E1-E30E-27B5-3514-6AB1DA934E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7E28E1-E30E-27B5-3514-6AB1DA934E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7E28E1-E30E-27B5-3514-6AB1DA934E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490B5315-A878-F7FB-5994-8289C930D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B5315-A878-F7FB-5994-8289C930D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B5315-A878-F7FB-5994-8289C930D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B5315-A878-F7FB-5994-8289C930D530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
